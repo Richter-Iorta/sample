@@ -1,12 +1,12 @@
 <template>
     <div>
-sample
+        Sample File
     </div>
 </template>
 
 <script>
     export default {
-        name:'sample'
+        name: "SampleFile"
     }
 </script>
 
